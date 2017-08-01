@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/nambrot/devstuff/spark-class/wikipedia/src/main/resources/log4j.properties,/Users/nambrot/devstuff/spark-class/wikipedia/target/scala-2.11/classes/log4j.properties)[0m
+[0m[[0mdebug[0m] [0m	(/Users/nambrot/devstuff/spark-class/wikipedia/src/main/resources/wikipedia,/Users/nambrot/devstuff/spark-class/wikipedia/target/scala-2.11/classes/wikipedia)[0m
+[0m[[0mdebug[0m] [0m	(/Users/nambrot/devstuff/spark-class/wikipedia/src/main/resources/wikipedia/wikipedia.dat,/Users/nambrot/devstuff/spark-class/wikipedia/target/scala-2.11/classes/wikipedia/wikipedia.dat)[0m

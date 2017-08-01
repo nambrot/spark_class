@@ -1,0 +1,36 @@
+[0m[[0mdebug[0m] [0mThe wikipedia.WikipediaArticle source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	containsLang.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) wikipedia.WikipediaArticle: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) wikipedia.WikipediaArticle.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/nambrot/devstuff/spark-class/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mThe wikipedia.WikipediaArticle$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	containsLang.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) wikipedia.WikipediaArticle$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) wikipedia.WikipediaArticle$.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/nambrot/devstuff/spark-class/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mThe wikipedia.WikipediaRanking$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	containsLang.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mFiles invalidated by inheriting from (external) wikipedia.WikipediaRanking$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0mGetting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0mGetting sources that directly depend on (external) wikipedia.WikipediaRanking$.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /Users/nambrot/devstuff/spark-class/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set(NamesChange(wikipedia.WikipediaArticle,ModifiedNames(regularNames = containsLang, implicitNames = )), NamesChange(wikipedia.WikipediaArticle$,ModifiedNames(regularNames = containsLang, implicitNames = )), NamesChange(wikipedia.WikipediaRanking$,ModifiedNames(regularNames = containsLang, implicitNames = )))[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m
